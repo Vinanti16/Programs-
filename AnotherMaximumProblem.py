@@ -8,6 +8,7 @@ def isEmpty(stack):
 
 
 def push(stack, x):
+    
     stack.append(x)
 
 
