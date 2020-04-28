@@ -4,6 +4,7 @@ def createStack():
 
 
 def isEmpty(stack):
+    
     return len(stack) == 0
 
 
